@@ -1,15 +1,15 @@
 {
-    "name": "Queen Amdi",
-    "description": "Queen Amdi [Multi-device] - A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience. 💃🏻❤️",
+    "name": "Queen BABLI Amdi",
+    "description": "Queen BABLI Amdi [Multi-device] - A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience. 💃🏻❤️",
     "keywords": [
-        "Queen Amdi",
+        "Queen BABLI Amdi",
         "WhatsApp",
-        "Black Amda",
+        "BABLI",
         "multi-device"
     ],
-    "website": "https://amdaniwasa.com/",
-    "repository": "https://github.com/BlackAmda/QueenAmdi",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "website": "https://moviesmod.zip/",
+    "repository": "https://github.com/saeedx303/QueenAmdi",
+    "logo": "https://i.pinimg.com/originals/04/a6/4a/04a64af493426d8e56b48ebb83cc22b6.gif",
     "success_url": "https://dashboard.heroku.com/apps/",
     "env": {
         "HEROKU": {
@@ -29,7 +29,7 @@
         "TZ": {
             "description": "Your timezone",
             "required": true,
-            "value": "Asia/Colombo"
+            "value": "Lahore,Pakistan"
         }
     },
     "buildpacks": [
